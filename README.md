@@ -6,8 +6,9 @@
 
 📩 Reach me at: mmeesamtammar@gmail.com  
 
-🚀 Currently working on: Automating daily tasks using ESP32 & LoRa modules  
-
+🚀 Currently working on:  
+Automating daily tasks using ESP32 & LoRa modules  
+RISC-V Pipelined Processor Simulation in Verilog
 <!---
 MEESAM749/MEESAM749 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
