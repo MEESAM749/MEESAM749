@@ -1,13 +1,12 @@
-👋 Hi, I'm Meesam!
+Hi, I'm Meesam!
 
-🔹 Passionate about Embedded Systems & Hardware Development  
-🔹 Exploring Microcontrollers, FPGAs, and Low-Level Programming  
-🔹 Open to collaborating on Embedded Systems projects  
+- Passionate about Embedded Systems & Hardware Development and it's integration with AI/ML applications. 
+- Exploring MLOps.   
+- Open to collaborating on Embedded Systems projects  
 
-📩 Reach me at: mmeesamtammar@gmail.com  
+ Reach me at: mmeesamtammar@gmail.com  
 
-🚀 Currently working on:  
-RISC-V Pipelined Processor Simulation in Verilog
+
 <!---
 MEESAM749/MEESAM749 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
