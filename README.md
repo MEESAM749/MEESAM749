@@ -25,11 +25,15 @@ I am a student based in Rawalpindi. I love building things that live on the inte
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-meesam-tammar-0745822a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR-NAME]" height="30" width="40" /></a>
-<a href="mailto:mmeesamtammar@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="M.Meesam Tammar" height="30" width="40" /></a>
-<a href="https://huggingface.co/123aloo123" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="M.Meesam Tammar" height="30" width="30" />
-</a>
+  <a href="https://linkedin.com/in/muhammad-meesam-tammar-0745822a9" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:mmeesamtammar@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://huggingface.co/123aloo123" target="blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" height="28" width="28" style="vertical-align:middle; margin-left: 5px;" />
+  </a>
 </p>
 
 ---
