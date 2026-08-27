@@ -1,16 +1,15 @@
-# Hi there, I'm M.Meesam! 👋
+# Hi there, I'm Meesam! 👋
 
 ### 💫 About Me:
-I am a student based in Rawalpindi. I love building things that live on the internet and learning new technologies.
+I am a Computer Engineer based in Rawalpindi. I like making random things from time to time.
 
-- 🔭 I’m currently working on **ML Based Market Analytics Pipeline Project**
-- 🌱 I’m currently learning **CUDA for AI/ML Processes**
+I am mostly into electronics and embedded hardware. I do occasional web dev. Sometimes i do AI/ML but that's mostly to do stupid shit like training a small robot to fetch me water from the kitchen or chase my nephews and nieces so i don't have to play with them. Anyways, I mostly do small personal projects that are directly relevant to whatever I'm doing at the moment . Some things i do are trivial, some are maybe worth showing, some are dogshit. anyways, i don't know why you have come to my github(you should reconsider your life choices), there's nothing interesting here. but you are welcome to explore, maybe you'll find something of value here(i highly doubt it).
 
 ---
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,c,c++,c#,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,stm32,git,docker,raspberrypi" />
 </p>
 
 ---
@@ -23,7 +22,7 @@ I am a student based in Rawalpindi. I love building things that live on the inte
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 I don't know what you could possibly want from me but whatever:
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-meesam-tammar-0745822a9" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -37,10 +36,3 @@ I am a student based in Rawalpindi. I love building things that live on the inte
 </p>
 
 ---
-
-### 📂 Top Projects:
-. **BitNet-GPT2-125M: 1.58-bit Quantization-Aware Training([https://github.com/link](https://github.com/MEESAM749/BitNet-GPT2-125M))**
-- Quantization-Aware Training (QAT), and inference of a 1.58-bit Large Language Model built entirely from scratch. By performing "Model Surgery" on a standard Hugging Face GPT-2 (125M), this project replaces standard 16-bit floating-point linear layers with custom Ternary (-1, 0, 1) BitLinear layers, inspired by Microsoft's The Era of 1-bit LLMs research.
-   
-. **MeetMind — AI Meeting Summarizer([https://github.com/link](https://github.com/MEESAM749/AI-MeetingSummarizer))**
-- Upload any meeting recording. Get a structured, actionable summary in seconds.
