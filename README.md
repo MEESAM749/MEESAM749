@@ -6,4 +6,4 @@ I like making random things from time to time, usually small personal projects t
 
 Sometimes I train AI models for serious applications, such as making a robot fetch me water or chase my nephews so I don't have to play with them.
 
-I don't know why you came to my GitHub. You should probably reconsider your life choices. But you're here now, so feel free to look around.
+I don't know why you came to my GitHub. (You should probably reconsider your life choices). But you're here now, so feel free to look around.
